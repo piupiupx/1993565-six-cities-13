@@ -1,4 +1,4 @@
-import OfferCardComponent from '../offer-screen/offer-screen.tsx';
+import OfferCardComponent from './city-offer-screen.tsx';
 
 type OfferCardsProps = {
   offersCardsCount: number;
