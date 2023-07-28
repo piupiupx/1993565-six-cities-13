@@ -164,3 +164,5 @@ function Favorites() {
     </section>
   );
 }
+
+export default Favorites;

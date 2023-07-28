@@ -11,3 +11,5 @@ function FavoriteEmpty() {
     </section>
   );
 }
+
+export default FavoriteEmpty;

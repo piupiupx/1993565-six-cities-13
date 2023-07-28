@@ -19,3 +19,5 @@ function HeaderLogin() {
     </header>
   );
 }
+
+export default HeaderLogin;

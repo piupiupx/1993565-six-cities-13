@@ -245,3 +245,5 @@ function CitiesPlaces() {
     </div>
   </section>;
 }
+
+export default CitiesPlaces;

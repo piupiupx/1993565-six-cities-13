@@ -1,12 +1,11 @@
 import MainComponent from '../../pages/main-page/main-page.tsx';
 
 type OfferCountProps = {
-  offerCount: number;
-}
+  offerCardsCount: number;
+};
 
-
-function App( {offerCardsCount}:OfferCountProps ) : JSX.Element {
-  return ( <MainComponent offerCardsCount={offerCardsCount}/>);
+function App({ offerCardsCount }: OfferCountProps): JSX.Element {
+  return <MainComponent offerCardsCount={offerCardsCount} />;
 }
 
 export default App;

@@ -35,3 +35,5 @@ function LocationList() {
 </section>
 );
 }
+
+export default LocationList;

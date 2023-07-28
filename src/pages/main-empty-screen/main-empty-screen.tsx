@@ -13,3 +13,5 @@ function MainEmpty() {
     </div>
   );
 }
+
+export default MainEmpty;

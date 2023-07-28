@@ -25,3 +25,5 @@ function NotLogged() {
     </div>
   );
 }
+
+export default NotLogged;

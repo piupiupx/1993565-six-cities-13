@@ -44,3 +44,5 @@ function OfferGallery() {
     </div>
   );
 }
+
+export default OfferGallery;
