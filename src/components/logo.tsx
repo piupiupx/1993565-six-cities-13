@@ -1,7 +1,7 @@
 function LogoFooter() {
   return (
     <footer className="footer container">
-      <Link className="footer__logo-link" to="main.html">
+      <a className="footer__logo-link" to="/">
         <img
           className="footer__logo"
           src="img/logo.svg"
@@ -9,7 +9,7 @@ function LogoFooter() {
           width={64}
           height={33}
         />
-      </Link>
+      </a>
     </footer>
   );
 }
